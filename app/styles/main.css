@@ -1,0 +1,10 @@
+button#start {
+  position:absolute;
+  top: 40vh;
+  left: 45vw;
+  background-color: gray;
+  height: 10vh;
+  width: 10vh;
+  font-weight: 900;
+  font-size: 1.5em;
+}
